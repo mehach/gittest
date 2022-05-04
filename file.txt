@@ -1,6 +1,5 @@
-ligne 1 
-ligne 2
-ligne tag
-ligne branche 1
+ceci est le fichier de la branche 1
+ligne 1 branche 1
+ligne 2 branch	1
 
 
