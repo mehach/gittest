@@ -1,6 +1,13 @@
+mon premier merge 
+ceci est le main 
+ligne 1 
+ligne 2
+ligne tag
+ligne 3
 ceci est le fichier de la branche 1
 ligne 1 branche 1
 ligne 2 branch	1
 commit apres mergeg 
+
 
 
